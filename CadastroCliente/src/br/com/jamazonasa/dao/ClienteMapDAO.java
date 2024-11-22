@@ -4,6 +4,8 @@ import br.com.jamazonasa.domain.Cliente;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Collection;
+
 
 public class ClienteMapDAO implements IClienteDAO{
 
